@@ -1,0 +1,2 @@
+# FakeCryptoMiner
+Fake Crypto Miner!
